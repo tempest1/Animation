@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/zhoudi/GoogleNavigationDrawer-master/Animation/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/zhoudi/GoogleNavigationDrawer-master/Animation/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_3d92faaa5930eb1683104a50c18d4d250679a23c.jar" />
+    </item>
+    <item
+        jar="/Users/zhoudi/GoogleNavigationDrawer-master/Animation/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ad7d36407d32da93eab0ce237ae343de8d07770a">
+        <dex dex="/Users/zhoudi/GoogleNavigationDrawer-master/Animation/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_50a7bd65e8e330561aea234589c00f96a32b99a6.jar" />
+    </item>
+    <item
+        jar="/Users/zhoudi/GoogleNavigationDrawer-master/Animation/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="60c7b12c0c3e206550b6a8aa37d74db426ac2272">
+        <dex dex="/Users/zhoudi/GoogleNavigationDrawer-master/Animation/app/build/intermediates/pre-dexed/debug/instant-run_37e3de466c8f857bc014393335a3d1680f3beba9.jar" />
+    </item>
+    <item
+        jar="/Users/zhoudi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/zhoudi/GoogleNavigationDrawer-master/Animation/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_70d675467eaca3e18b4730e03a1cad10e73b616e.jar" />
+    </item>
+    <item
+        jar="/Users/zhoudi/GoogleNavigationDrawer-master/Animation/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/zhoudi/GoogleNavigationDrawer-master/Animation/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_cc3603842af6a0a4aa903c270353af7c4a465a98.jar" />
+    </item>
+    <item
+        jar="/Users/zhoudi/GoogleNavigationDrawer-master/Animation/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/zhoudi/GoogleNavigationDrawer-master/Animation/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_77c42f581dbd9e9ea78a2fa27657f903835889d7.jar" />
+    </item>
+    <item
+        jar="/Users/zhoudi/GoogleNavigationDrawer-master/Animation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/zhoudi/GoogleNavigationDrawer-master/Animation/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_26162d937251e6cab0d20ae83c498a2288160463.jar" />
+    </item>
+    <item
+        jar="/Users/zhoudi/GoogleNavigationDrawer-master/Animation/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/zhoudi/GoogleNavigationDrawer-master/Animation/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_d17ffade3fd971fe95987b3740bd6b50f3fa64f0.jar" />
+    </item>
+
+</items>
